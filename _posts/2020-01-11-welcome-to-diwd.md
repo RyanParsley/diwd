@@ -1,5 +1,6 @@
 ---
 title:  "Welcome to DIWD!"
+author: Adelaide Parsley
 date:   2020-01-11 13:16:40 -0500
 excerpt: "Hello World!"
 ---
