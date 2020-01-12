@@ -12,10 +12,6 @@ block: "no"
 voices: "Ryan Parsley, Adelaide Parsley and Malcolm Parsley"
 ---
 
-<audio controls>
-  <source src="myAudio.mp3" type="audio/mp3">
-</audio>
-
 This is the body of the podcast landing page for a fake first episode.
 
 ## Links: 
